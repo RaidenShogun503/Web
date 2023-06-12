@@ -15,52 +15,52 @@ export default function Home() {
                 <div className="hero-overlay bg-opacity-60"></div>
                 <div className="hero-content text-center text-neutral-content">
                     <div className="max-w-md">
-                        <h1 className="mb-5 text-5xl">Chào mừng bạn đến với {siteTitle}</h1>
+                        <h1 className="mb-5 text-5xl">Chào mừng bạn đến với Trang Web Của Tui</h1>
                         <p className="mb-5">
-                         {siteTitle} là một server private mà bạn có thể làm bất cứ gì bạn thích.
+                         Tui cũng chả biết nói j trong này cả :)).Info và link ở repo để ở dưới nha
                         </p>
                         <div class="flex justify-center gap-2">
                             <div className="dropdown dropdown-hover">
                                 <label tabIndex={0} className="btn btn-primary">
-                                    Lệnh
+                                    Repo Jailbreak
                                 </label>
                                 <ul
                                     tabIndex={0}
                                     className="dropdown-content menu p-2 shadow bg-base-100 rounded-box w-52"
                                 >
                                     <li>
-                                        <a href="/command">V1</a>
+                                        <a href="sileo://source/https://raidenrepo.cyclic.app/repo/">Sileo</a>
                                     </li>
                                     <li>
-                                        <a href="https://ps2.yuuki.me/command">V2</a>
+                                        <a href="zbra://sources/add/https://raidenrepo.cyclic.app/repo">Zebra</a>
                                     </li>
                                 </ul>
                             </div>
 
                             <div className="dropdown dropdown-hover">
                                 <label tabIndex={0} className="btn btn-primary">
-                                    Chơi
+                                    MXH
                                 </label>
                                 <ul
                                     tabIndex={0}
                                     className="dropdown-content menu p-2 shadow bg-base-100 rounded-box w-52"
                                 >
                                     <li>
-                                        <a href="/genshin">Genshin Impact</a>
+                                        <a href="https://www.facebook.com/profile.php?id=100086286302686">Facebook</a>
                                     </li>
                                     <li>
-                                        <a href="/starrail">Star Rail</a>
+                                        <a href="https://tiktok.com/@raidenshogun577">Tiktok</a>
                                     </li>
                                 </ul>
                             </div>
 
                             <a
-                                href="/signup"
+                                href="https://github.com/RaidenShogun508"
                                 target="_blank"
                                 rel="sponsored"
                                 class="btn btn-primary"
                             >
-                                Tạo Acc
+                                Github
                             </a>
                         </div>
                     </div>
