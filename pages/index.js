@@ -29,10 +29,10 @@ export default function Home() {
                                     className="dropdown-content menu p-2 shadow bg-base-100 rounded-box w-52"
                                 >
                                     <li>
-                                        <a href="sileo://source/https://raidenrepo.cyclic.app/repo/">Sileo</a>
+                                        <a href="sileo://source/https://raiden.cyclic.app/repo/">Sileo</a>
                                     </li>
                                     <li>
-                                        <a href="zbra://sources/add/https://raidenrepo.cyclic.app/repo">Zebra</a>
+                                        <a href="zbra://sources/add/https://raiden.cyclic.app/repo">Zebra</a>
                                     </li>
                                 </ul>
                             </div>
