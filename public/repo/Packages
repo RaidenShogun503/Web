@@ -1,3 +1,54 @@
+Package: com.mtac.ampere
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Installed-Size: 568
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Filename: debs/com.mtac.ampere_1.1_iphoneos-arm64.deb
+Size: 86922
+MD5sum: 40812740924e20d193bbce5cb0302fda
+SHA1: d47d90cc7221b8f6c088a43031ad56ed4a106cf5
+SHA256: 7f1b998367fd1b6bb672f824c62be43a77256c97f641230ac02a73a49c5844ab
+Section: Tweaks
+Description: Pin giống iOS 16
+Author: MTAC
+Name: Ampere
+
+Package: com.nahtedetihw.gesturesxv
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: Ethan Whited
+Installed-Size: 2756
+Depends: mobilesubstrate
+Filename: debs/com.nahtedetihw.gesturesxv_1.6_iphoneos-arm64.deb
+Size: 2162250
+MD5sum: bb3616e0fe4ee30c20101d4adabbd8e1
+SHA1: 3bc01f69ed79827cc99d353078bac52ea065c9f8
+SHA256: 5e34b44fdfaa94be436d68cd96f90935b0bc665db7cc832a1b791193ef2b1c03
+Section: Tweaks
+Description: iĐưa cử chỉ Iphone X về đời iphone cũ hơn
+Author: Ethan Whited
+Name: GesturesXV
+
+Package: com.nightwind.searchdots
+Version: 1.1.4
+Architecture: iphoneos-arm64
+Maintainer: Nightwind <nightwinddev@gmail.com>
+Installed-Size: 506
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/com.nightwind.searchdots_1.1.4_iphoneos-arm64.deb
+Size: 106078
+MD5sum: fda3f1a7e569092e55254978741396de
+SHA1: 5d1d9590cc0b342374b6d101102cb854fc3ef62b
+SHA256: 8faf047d0b0860b2e236957c829e7ca4650094fceac595d136191a4393b04056
+Section: Tweaks
+Description: Search Pill Ported from iOS 16
+Tag: compatible_min::ios15.0
+Author: Nightwind <nightwinddev@gmail.com>
+Depiction: https://chariz.com/get/searchdots
+Icon: https://img.chariz.cloud/icon/searchdots/icon@3x.png
+Name: SearchDots
+
 Package: com.opa334.choicy
 Version: 1.4.9-3
 Architecture: iphoneos-arm64
@@ -10,7 +61,7 @@ MD5sum: 9628b0513eca8533df367add7d094702
 SHA1: 4ab16829b459141467d874211056755195a42e6f
 SHA256: fc26f86cbe8864e0850841b9b433196209dac1cf490d8a46ae105b0ac5adfa81
 Section: Tweaks
-Description: Tweak chặn jb trên các app ngân hàng
+Description: Chặn jb Cho các app ngân hàng
 Author: opa334 <opa334@protonmail.com>
 Depiction: https://opa334.github.io/depic/Choicy/index.html
 Name: Choicy
