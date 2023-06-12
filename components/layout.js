@@ -8,7 +8,7 @@ export default function Layout({ children, home }) {
         <div className={styles.container}>
             <Head>
                 <link rel="icon" href="/favicon.ico" />
-                <meta name="description" content="Private Server Anime Game" />
+                <meta name="description" content=":)))))))" />
             </Head>
 
             {children}
