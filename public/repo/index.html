@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Raiden Repo</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap/dist/css/bootstrap.min.css">
+</head>
+<body>
+  <div id="root"></div>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap/dist/js/bootstrap.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/react@latest/umd/react.production.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/react-dom@latest/umd/react-dom.production.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@rootless-repo/react-components@latest/index.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@rootless-repo/react-router@latest/index.js"></script>
+  <script src="/repo/PackageList.js"></script>
+  <script>
+    ReactDOM.render(
+      React.createElement(RootlessRepo, null),
+      document.getElementById('root')
+    );
+  </script>
+</body>
+</html>
