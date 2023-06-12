@@ -1,7 +1,7 @@
 import Head from "next/head";
 import styles from "./layout.module.css";
 
-export const siteTitle = "RaidenPS";
+export const siteTitle = ":))";
 
 export default function Layout({ children, home }) {
     return (
