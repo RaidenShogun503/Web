@@ -10,7 +10,7 @@ MD5sum: 9628b0513eca8533df367add7d094702
 SHA1: 4ab16829b459141467d874211056755195a42e6f
 SHA256: fc26f86cbe8864e0850841b9b433196209dac1cf490d8a46ae105b0ac5adfa81
 Section: Tweaks
-Description: Advanced Tweak Configuration!
+Description: Tweak chặn jb trên các app ngân hàng
 Author: opa334 <opa334@protonmail.com>
 Depiction: https://opa334.github.io/depic/Choicy/index.html
 Name: Choicy
