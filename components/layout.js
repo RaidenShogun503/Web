@@ -40,7 +40,7 @@ export default function Layout({ children, home }) {
 
                     </p>
                     <p>
-                        <a href="https://raidenps.cyclic.app" target="_blank" rel="sponsored">
+                        <a href="https://raiden.cyclic.app" target="_blank" rel="sponsored">
                             Cải tiến bởi Nguyễn Hiếu <span class="heart">❤</span> ở NghệAn\ViệtNam
                         </a>
                     </p>
