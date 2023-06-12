@@ -9,7 +9,7 @@ const BackgroundVideo = ({ videoUrl }) => {
         autoPlay
         muted
         loop
-        src={videoUrl} // Thay thế YuukaStory1.mp4 bằng videoUrl
+        src="./YuukaStory1.mp4" // Thay thế YuukaStory1.mp4 bằng videoUrl
       />
     </div>
   );
